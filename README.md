@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning to code in Python & R ...
 - 💞️ I’m looking to collaborate on Education, Physics, Machine Learning & Mathematics ...
 - 📫 You can reach me through my e-mail: amk.colombia@gmail.com
-- 🚀 I'm Scratch Tutor for LatAm, this is my work at Kodland's University: https://scratch.mit.edu/users/Annamariak08/
+- 🚀 I'm Scratch Tutor LatAm, my job at Kodland's University: https://scratch.mit.edu/users/Annamariak08/
 
 <!---
 AnnaMariak08/AnnaMariak08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
