@@ -3,7 +3,7 @@
 - 🌱 Currently learning to code in Python ...
 - 💞️ I’m looking to collaborate on Physics Based Deep Learning 🚀  ...
 - 📫 You can find me trough my e-mail or  WhatsApp:
--   amk.colombia@gmail.com
+-    amk.colombia@gmail.com
 -     (+57) 302 838 6042
 
 <!---
